@@ -1,4 +1,4 @@
-# 🛒 Tugas Pemodelan dan Evaluasi Prediksi – Dataset Superstore  
+# Tugas Pemodelan dan Evaluasi Prediksi – Dataset Superstore  
 **Mata Kuliah:** Artificial Intelligence  
 **Nama:** Fabio Banyu Cyto (123450104)
 
@@ -13,9 +13,8 @@ Mengimplementasikan model klasifikasi untuk memprediksi apakah suatu transaksi m
 
 ---
 
-## 📌 Deskripsi Proyek  
-Repository ini berisi proses lengkap dalam melakukan **pemodelan klasifikasi** pada **Dataset Superstore**, dimulai dari penentuan tujuan penelitian, penetapan variabel target, pembersihan data, eksplorasi data, pemilihan model, hingga evaluasi performa.  
-Proyek ini dikembangkan melalui diskusi terstruktur bersama ChatGPT untuk menentukan variabel target yang paling tepat, model yang paling sesuai, serta landasan ilmiah dari pemilihan tersebut, dengan mengikuti workflow standar pada Data Science.
+## 📌 Deskripsi Tugas
+Repository ini berisi proses lengkap dalam melakukan **pemodelan klasifikasi** pada **Dataset Superstore**, dimulai dari penentuan tujuan penelitian, penetapan variabel target, pembersihan data, eksplorasi data, pemilihan model, hingga evaluasi performa. Tugas ini dikembangkan melalui diskusi terstruktur bersama rekan kelompok untuk menentukan variabel target yang paling tepat, model yang paling sesuai, serta landasan ilmiah dari pemilihan tersebut.
 
 ---
 
@@ -102,3 +101,4 @@ Untuk mengukur performa ketiga model, digunakan metrik evaluasi berikut:
 - 🎯 **Recall** — kemampuan model menemukan semua instance profit  
 - 🎯 **F1-Score** — keharmonisan antara precision dan recall  
 - 🎯 **Confusion Matrix** — visualisasi prediksi benar/salah per kelas  
+
