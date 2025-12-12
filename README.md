@@ -1,4 +1,4 @@
-# Tugas Pemodelan dan Evaluasi Prediksi – Dataset Superstore  
+# Tugas Pemodelan: Klasifikasi dan Evaluasi Prediksi – Dataset Superstore  
 **Mata Kuliah:** Artificial Intelligence  
 **Nama:** Fabio Banyu Cyto (123450104)
 
