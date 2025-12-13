@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Tugas-Pemodelan-dan-Evaluasi-Prediksi-Data-Superstore
-=======
-# Tugas Pemodelan dan Evaluasi Prediksi – Dataset Superstore  
+# Tugas Pemodelan: Klasifikasi dan Evaluasi Prediksi – Dataset Superstore  
 **Mata Kuliah:** Artificial Intelligence  
 **Nama:** Fabio Banyu Cyto (123450104)
 
@@ -86,13 +83,8 @@ Model yang digunakan pada penelitian ini dipilih karena:
 ### **Model yang digunakan:**
 
 #### 1. 🌲 **XGBoost**  
-Model boosting yang kuat, stabil, dan sering memberikan akurasi tinggi pada data tabular.
-
 #### 2. 🌳 **Random Forest Classifier**  
-Model berbasis ensemble yang tahan overfitting serta ideal untuk pemula maupun tingkat lanjut.
-
 #### 3. ➗ **Logistic Regression**  
-Model dasar yang sangat mudah diinterpretasi dan cocok untuk baseline.
 
 ---
 
@@ -104,5 +96,3 @@ Untuk mengukur performa ketiga model, digunakan metrik evaluasi berikut:
 - 🎯 **Recall** — kemampuan model menemukan semua instance profit  
 - 🎯 **F1-Score** — keharmonisan antara precision dan recall  
 - 🎯 **Confusion Matrix** — visualisasi prediksi benar/salah per kelas  
-
->>>>>>> ff7c35fbd20e50916a7957c27b84dd14b38f2633
