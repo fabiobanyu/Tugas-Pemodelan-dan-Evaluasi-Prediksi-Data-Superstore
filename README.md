@@ -19,22 +19,17 @@
 ## 👨‍💻 Tim Penyusun
 Berikut adalah anggota **Kelompok 3** yang berkontribusi dalam penelitian ini:
 
-| No | Nama Anggota | NIM | Peran / Fokus |
+| No | Nama Anggota | NIM |
 |:--:|:---|:---:|:---|
-| 1 | **Fabio Banyu Cyto** | `123450104` | *Data Preprocessing & Modeling* |
-| 2 | **Gusti Putu Ferazka D.** | `123450046` | *Exploratory Data Analysis (EDA)* |
-| 3 | **Aliya Amara Ananta** | `123450075` | *Feature Engineering & Evaluation* |
-| 4 | **Hafsa Fazila Arradhi** | `123450079` | *Documentation & Reporting* |
+| 1 | **Fabio Banyu Cyto** | `123450104` |
+| 2 | **Gusti Putu Ferazka D.** | `123450046` |
+| 3 | **Aliya Amara Ananta** | `123450075` |
+| 4 | **Hafsa Fazila Arradhi** | `123450079` |
 
 ---
 
 ## 📌 Deskripsi Proyek
-Repository ini mendokumentasikan proses **pemodelan klasifikasi** menggunakan **Dataset Superstore**. Proyek ini mencakup alur kerja *Data Science* yang komprehensif:
-
-1.  **Problem Framing**: Menentukan tujuan bisnis dan variabel target.
-2.  **Data Preparation**: Pembersihan data, penanganan outlier, dan feature engineering.
-3.  **Modeling**: Implementasi algoritma Machine Learning.
-4.  **Evaluation**: Analisis performa model menggunakan berbagai metrik.
+Repository ini berisi proses lengkap dalam melakukan **pemodelan klasifikasi** pada **Dataset Superstore**, dimulai dari penentuan tujuan penelitian, penetapan variabel target, pembersihan data, eksplorasi data, pemilihan model, hingga evaluasi performa. Tugas ini dikembangkan melalui diskusi terstruktur bersama rekan kelompok untuk menentukan variabel target yang paling tepat, model yang paling sesuai, serta landasan ilmiah dari pemilihan tersebut.
 
 > **Highlight:** Tugas ini dikembangkan melalui diskusi terstruktur untuk memastikan pemilihan model dan metode evaluasi memiliki landasan ilmiah yang kuat.
 
